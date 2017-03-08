@@ -1,0 +1,16 @@
+Welcome to car rental application. This is a user guidance to help you using the application.
+
+The application runs showing you three options. The first option is to create a new user, the second option is to retrieve data about a specific user, and the third option is help.
+
+
+-------------------------
+** Adding a new customer.
+-------------------------
+
+To add a new customer, you will have to  choose option 1 and the process will take you step by step. You will be prompted to enter the customer's details, and at the end, you will be prompted to either continue or modify your input.
+
+-------------------------
+** Retrieving data
+-------------------------
+
+To show list of saved customers, type "list" and list of customers will show up. If you already know the customer's lastname, just enter his lastname and his data will be retreived.

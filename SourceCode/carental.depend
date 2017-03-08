@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1426912177 source:/home/mysterious/Downloads/tinyxml2-master/tinyxml2.cpp
+	"tinyxml2.h"
+	<new>
+	<stddef.h>
+	<cstddef>
+
+1426912177 /home/mysterious/Downloads/tinyxml2-master/tinyxml2.h
+	<ctype.h>
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdarg.h>
+	<cctype>
+	<climits>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cstdarg>
+	<android/log.h>
+	<assert.h>
+
+1432752489 source:/home/mysterious/Desktop/cpproj/carental/main.cpp
+	<iostream>
+	</home/mysterious/Downloads/tinyxml2-master/tinyxml2.h>
+	<fstream>
+	<string>
+	<unistd.h>
+	<sstream>
+
+1429094465 /home/mysterious/include/Person.h
+
+1429106057 source:/home/mysterious/Desktop/cpproj/justest/testtime.cpp
+	<iostream>
+	<string>
+	<typeinfo>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<math.h>
+

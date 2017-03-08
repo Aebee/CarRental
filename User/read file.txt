@@ -1,0 +1,1 @@
+If you could not open the carental file by double clicking, please open a terminal, type the path where the file is located, then in your terminal type, ./carental.
